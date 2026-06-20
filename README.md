@@ -30,7 +30,7 @@
 - Toolset: Shopify, XD, Photoshop, Illustrator. Slack, Zoom, Basecamp.
 ### Frontend Web Developer
 - Company: Waller Lansden Dortch and Davis (a law firm)
-- Dates Employed: July 2012 - June 2020 (let go due to covid 19 cuts).
+- Dates Employed: July 2012 - June 2020
   - Provide frontend web and design services for a large regional full-service law firm of over 200 attorneys.
   - Designed and developed the firm’s intranet, worked alongside attorneys and staff members to determine its function and usage; Delivered a product that saved the company money and was user-friendly whilst preserving its full functionality.
   - Managed, designed, and developed internal firm applications.
