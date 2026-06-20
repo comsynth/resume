@@ -7,7 +7,7 @@
 ### Director of Technology
 - Company: Fifo Agency (a brand, production, digital agency)
 - Dates Employed: February 2023 - Present.
-- Employment Duration: 24 months.
+- Employment Duration: 36 months.
   - Design, build, and develop websites.
   - Works alongside the Creative Director to develop brands and identities.
   - Brand applications - creates brand-specified content from brand guides. Including; business cards, printed materials, powerpoint presentations, pdf’s.
@@ -15,10 +15,10 @@
   - Video Editing.
   - Photography - creates and edits content for digital and print.
   - Creates design systems to automate, uniform, and reduce repetitive design tasks.
-  - Creates and implicates social media campaigns.
+  - Creates and implements social media campaigns.
   - Project Management.
   - Business Creation.
-- Toolset: Figma, WordPress, Wix studio, Squarespace, XD, Photoshop, Lightroom, Premiere, Illustrator, Slack, Zoom, Asana, Constant Contact, Loomly, Google.
+- Toolset: Figma, WordPress, Wix studio, Squarespace, XD, Photoshop, Lightroom, Premiere, Illustrator, Slack, Zoom, Asana, Constant Contact, Loomly, Google, Chatgpt.
 ### Platform Specialist
 - Company: Metacake (an e-commerce agency)
 - Dates Employed: June 2021 - January 2023.
