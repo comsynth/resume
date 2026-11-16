@@ -9,10 +9,8 @@
 - Dates Employed: February 2023 - Present.
 - Employment Duration: 45 months.
   - Design, build, and develop websites.
-  - Works alongside the Creative Director to develop brands and identities.
+  - Develop brands and identities.
   - Brand applications - creates brand-specified content from brand guides. Including; business cards, printed materials, powerpoint presentations, pdf’s.
-  - Video Direction.
-  - Video Editing.
   - Photography - creates and edits content for digital and print.
   - Creates design systems to automate, uniform, and reduce repetitive design tasks.
   - Creates and implements social media campaigns.
