@@ -5,7 +5,7 @@
 > **Well traveled globally and cognitively.**
 ## Professional Endeavors
 ### Partner / Director of Technology
-- Company: Fifo Agency (a brand, production, digital agency)
+- Company: Fifo Agency (a creative agency)
 - Dates Employed: February 2023 - Present.
 - Employment Duration: 45 months.
   - Design, build, and develop websites.
