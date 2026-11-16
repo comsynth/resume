@@ -4,7 +4,7 @@
 > A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms.
 > **Well traveled globally and cognitively.**
 ## Professional Endeavors
-### Director of Technology
+### Partner / Director of Technology
 - Company: Fifo Agency (a brand, production, digital agency)
 - Dates Employed: February 2023 - Present.
 - Employment Duration: 48 months.
