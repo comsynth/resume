@@ -81,7 +81,7 @@ HTML, CSS (SCSS), JS.
 ## Tool set
 Shopify, Squarespace, Wix, WordPress, Sharepoint, Adobe Creative Suite, Photoshop, XD, Lightroom, Premiere, Illustrator, Github, VS code, VUE, Angular, React, (and google).
 ## Portfolio
- [Portfolio](https://github.com/jdthatcher/resume/blob/master/PORTFOLIO.md) | [Code Repositories](https://github.com/jdthatcher?tab=repositories) | [Wireframes](https://github.com/jdthatcher/resume/blob/master/WIREFRAMES.md) 
+ [Portfolio](https://github.com/jdthatcher/resume/blob/master/PORTFOLIO.md) | [Wireframes](https://github.com/jdthatcher/resume/blob/master/WIREFRAMES.md) 
 ## References
 - Joel Lawler - Senior Developer at Waller // 615 384 1181 
 - Bob Strachan - Founder of Metacake // 615 739 2014
