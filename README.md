@@ -40,7 +40,7 @@
   - Worked remotely and successfully engaged in regular team-based collaboration with 1 to 20 team members.
 - Toolset: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React. 
 ### Creative Director
-- Company: Comsynth (a media agency)
+- Company: Comsynth (a creative agency)
 - Dates Employed: March 2007 - Present.
   - Oversee and direct creative content.
   - Developed and launched branding projects for numerous clients/media campaigns, including Liona Law, Kia, Sony Music, Particle Ceramics, Elizabeth Smart, and First Class Talent.
