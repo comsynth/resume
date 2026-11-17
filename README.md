@@ -8,8 +8,8 @@
 - Company: Fifo Agency (a creative agency)
 - Dates Employed: February 2023 - Present.
 - Employment Duration: 45 months.
-  - Design, build, and develop websites.
-  - Develop brands and identities.
+  - Design, build, and develop digital experiences.
+  - Develop brands and campaigns.
   - Brand applications - creates brand-specified content from brand guides. Including; business cards, printed materials, powerpoint presentations, pdf’s.
   - Photography - creates and edits content for digital and print.
   - Creates design systems to automate, uniform, and reduce repetitive design tasks.
