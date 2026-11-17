@@ -23,7 +23,6 @@ February 2023 to present
 **Tools:** Figma, WordPress, Wix Studio, Squarespace, Adobe XD, Photoshop, Lightroom, Premiere Pro, Illustrator, Slack, Zoom, Asana, Constant Contact, Loomly, Google, ChatGPT.
 
 ### Platform Specialist
-### Platform Specialist
 
 **Metacake** · E-commerce agency  
 June 2021 to January 2023
