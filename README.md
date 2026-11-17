@@ -8,9 +8,7 @@
 ### Partner / Director of Technology
 - Company: Fifo Agency (a creative agency)
 - Dates Employed: February 2023 - Present.
-- Employment Duration: ```javascript
-const monthsSinceFeb2023 = (now => (now.getFullYear() - 2023) * 12 + now.getMonth() - 1)(new Date());
-```
+- Employment Duration: 45
   - Design, build, and develop digital experiences.
   - Develop brands and campaigns.
   - Brand applications - creates brand-specified content from brand guides. Including; business cards, printed materials, powerpoint presentations, pdf’s.
