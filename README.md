@@ -38,7 +38,7 @@
 ### Frontend Web Developer
 
 **Waller Lansden Dortch & Davis** · Law firm  
-<sub>July 2012 to June 2020<s/ub>
+<sub>July 2012 to June 2020</sub>
 
 #### What I did
 
