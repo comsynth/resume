@@ -98,7 +98,7 @@ June 2010 to present
 - Spend weekends there to stay grounded and have a bit of fun.
 
 **Tools:** Buckets, wellies, and a bee smoker.
-## A little about me
+## Details
 
 - British and American, based in Franklin, Tennessee.
 - Find me on [GitHub](https://github.com/jdthatcher/resume/) and [LinkedIn](https://www.linkedin.com/in/arkyard/).
