@@ -5,7 +5,7 @@
 
 
 ## Professional Endeavors
-### Partner / Director of Technology
+### Partner · Director of Technology
 
 **FIFO Agency** · Creative agency  
 <sub>February 2023 to present</sub>
