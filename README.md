@@ -94,8 +94,7 @@ June 2010 to present
 
 #### What I do
 
-- Look after more than 100 farm animals, tend bees, and help with general farm work.
-- Spend weekends there to stay grounded and have a bit of fun.
+I spend a little time on the farm at weekends, looking after more than 100 animals, tending bees, and doing whatever else needs doing. It keeps me grounded.
 
 **Tools:** Buckets, wellies, and a bee smoker.
 ## Details
