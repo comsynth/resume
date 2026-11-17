@@ -1,8 +1,7 @@
 # Jonathan Thatcher // A Modern Creative
 #### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
 ## Profile
-> A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms.
-> **Well traveled globally and cognitively.**
+> I start with people. I’ve made records and built brands. I find beauty in silence and delight in noise. I like to listen long enough to hear what someone else hears.
 ## Professional Endeavors
 ### Partner / Director of Technology
 - Company: Fifo Agency (a creative agency)
