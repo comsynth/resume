@@ -106,7 +106,7 @@ I spend a little time on the farm at weekends, looking after more than 100 anima
 ## Languages and tools
 
 - **Frontend:** HTML, CSS, SCSS, JavaScript, Vue, Angular, React
-- **Web platforms:** Shopify, Squarespace, Wix, WordPress, SharePoint
+- **Web platforms:** Shopify, Squarespace, Wix, Webflow, WordPress, SharePoint
 - **Design and production:** Photoshop, Illustrator, Adobe XD, Lightroom, Premiere Pro
 - **Development tools:** GitHub, VS Code
 
