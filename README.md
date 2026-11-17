@@ -88,15 +88,13 @@
 
 <sub>**Tools:** Dreamweaver, WordPress, Final Cut.</sub>
 ### Farm Hand / Beekeeper
-
-**Farm Hand**  
 <sub>June 2010 to present</sub>
 
 #### What I do
 
 I spend a little time on the farm at weekends, looking after more than 100 animals, tending bees, and doing whatever else needs doing. It keeps me grounded.
 
-**Tools:** Buckets, wellies, and a bee smoker.
+<sub>**Tools:** Buckets, wellies, and a bee smoker.</sub>
 ## Details
 
 - British and American, based in Franklin, Tennessee.
