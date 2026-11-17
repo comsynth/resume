@@ -42,7 +42,7 @@
 
 #### What I did
 
-- Redesigned the firm’s intranet to make it easier to use and reduce costs.
+- Redesigned the firm’s intranet to improve usability and lower costs.
 - Built internal tools, including an email signature app and an interactive floor map.
 - Worked with attorneys to build digital applications.
 - Managed projects and collaborated remotely with the development team.
