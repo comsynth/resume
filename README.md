@@ -88,8 +88,8 @@ Shopify, Squarespace, Wix, WordPress, Sharepoint, Adobe Creative Suite, Photosho
 - Richard Jackson - CEO of Fifo Agency // 818 512 0651
 - Michael Smallbone - Attorney // 615 260 2413
 ## Objectives
-> I want to work with creative, curious, kind people who care about what we make and who we make it for.
-> **Work we’re proud of. A life we’re present for.**
+> To work with creative, curious, kind people who care about what we make and who we make it for.
+>  **Work we’re proud of. A life we’re present for.**
 
 
 #### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
