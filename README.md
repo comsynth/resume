@@ -8,7 +8,7 @@
 ### Partner / Director of Technology
 
 **FIFO Agency** · Creative agency  
-February 2023 to present
+<sub>February 2023 to present</sub>
 
 #### What I do
 
@@ -20,12 +20,12 @@ February 2023 to present
 - Manage projects, work directly with clients, and help grow the agency.
 - Fill in the gaps wherever the team needs a hand.
 
-**Tools:** Figma, WordPress, Wix Studio, Squarespace, Adobe XD, Photoshop, Lightroom, Premiere Pro, Illustrator, Slack, Zoom, Asana, Constant Contact, Loomly, Google, ChatGPT.
+<sub>**Tools:** Figma, WordPress, Wix Studio, Squarespace, Adobe XD, Photoshop, Lightroom, Premiere Pro, Illustrator, Slack, Zoom, Asana, Constant Contact, Loomly, Google, ChatGPT.</sub>
 
 ### Platform Specialist
 
 **Metacake** · E-commerce agency  
-June 2021 to January 2023
+<sub>June 2021 to January 2023</sub>
 
 #### What I did
 
@@ -34,11 +34,11 @@ June 2021 to January 2023
 - Built design systems to automate repetitive tasks and keep designs consistent.
 - Created social media campaigns.
 
-**Tools:** Shopify, Adobe XD, Photoshop, Illustrator, Slack, Zoom, Basecamp.
+<sub>**Tools:** Shopify, Adobe XD, Photoshop, Illustrator, Slack, Zoom, Basecamp.</sub>
 ### Frontend Web Developer
 
 **Waller Lansden Dortch & Davis** · Law firm  
-July 2012 to June 2020
+<sub>July 2012 to June 2020<s/ub>
 
 #### What I did
 
@@ -47,11 +47,11 @@ July 2012 to June 2020
 - Worked with attorneys to build digital applications.
 - Managed projects and collaborated remotely with the development team.
 
-**Tools:** VS Code, Adobe XD, Photoshop, Illustrator, WordPress, SharePoint, GitHub, Vue, Angular, React.
+<sub>**Tools:** VS Code, Adobe XD, Photoshop, Illustrator, WordPress, SharePoint, GitHub, Vue, Angular, React.</sub>
 ### Creative Director
 
 **Comsynth** · Creative agency  
-March 2007 to present
+<sub>March 2007 to present</sub>
 
 #### What I do
 
@@ -60,11 +60,11 @@ March 2007 to present
 - Manage client relationships and handle bookkeeping.
 - Learn new tools and techniques to keep projects within budget.
 
-**Tools:** Photoshop, Illustrator, WordPress, Squarespace.
+<sub>**Tools:** Photoshop, Illustrator, WordPress, Squarespace.</sub>
 ### Professional Musician
 
 **Delirious?** · Rock band  
-April 1997 to November 2009
+<sub>April 1997 to November 2009</sub>
 
 #### What I did
 
@@ -73,12 +73,12 @@ April 1997 to November 2009
 - Built and maintained the band’s website.
 - Created videos for live shows and promotion.
 
-**Record labels:** Furious Records, Virgin Records, Sparrow Records, EMI.  
-**Tools:** Passport, Fender Precision Bass, Ampeg SVT with an 8×10 cabinet, ZVEX Woolly Mammoth, Reason, Logic, Pro Tools.
+<sub>**Record labels:** Furious Records, Virgin Records, Sparrow Records, EMI.  
+**Tools:** Passport, Fender Precision Bass, Ampeg SVT with an 8×10 cabinet, ZVEX Woolly Mammoth, Reason, Logic, Pro Tools.</sub>
 ### Partner / Webmaster
 
 **Furious Records** · Independent record label  
-January 1996 to November 2009
+<sub>January 1996 to November 2009</sub>
 
 #### What I did
 
@@ -86,11 +86,11 @@ January 1996 to November 2009
 - Built and maintained the label’s websites.
 - Managed online sales, email campaigns, and social media.
 
-**Tools:** Dreamweaver, WordPress, Final Cut.
+<sub>**Tools:** Dreamweaver, WordPress, Final Cut.</sub>
 ### Farm Hand / Beekeeper
 
-**McGinniss Farm and Smallbone Farm**  
-June 2010 to present
+**Farm Hand**  
+<sub>June 2010 to present</sub>
 
 #### What I do
 
