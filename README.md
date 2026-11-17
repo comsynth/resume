@@ -1,5 +1,5 @@
 # Jonathan Thatcher // Conductor of Art
-#### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
+#### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) · (+1) **615 943 2197**
 ## Profile
 > I start with people. I’ve made records and built brands. I find beauty in silence and delight in noise. I measure success in work I’m proud of and moments I’m there for.
 
