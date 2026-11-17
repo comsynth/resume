@@ -30,61 +30,85 @@ June 2021 to January 2023
 
 **Tools:** Shopify, Adobe XD, Photoshop, Illustrator, Slack, Zoom, Basecamp.
 ### Frontend Web Developer
-- Company: Waller Lansden Dortch and Davis (a law firm)
-- Dates Employed: July 2012 - June 2020
-  - Provide frontend web and design services for a large regional full-service law firm of over 200 attorneys.
-  - Designed and developed the firm’s intranet, worked alongside attorneys and staff members to determine its function and usage; Delivered a product that saved the company money and was user-friendly whilst preserving its full functionality.
-  - Managed, designed, and developed internal firm applications.
-  - Managed projects using the agile/scrum system, worked daily as part of a development team and collaborated using Github repositories.
-  - Providing continual monitoring, development, and feedback on the intranet.
-  - Responsible for designing and building a signature app to business development specifications  to uniform the firm's email identity.
-  - Created and managed an interactive floor map application that met the specifications of the facilities team.
-  - Worked closely with attorneys to design, develop, and manage subsidiary external websites.
-  - Worked remotely and successfully engaged in regular team-based collaboration with 1 to 20 team members.
-- Toolset: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React. 
+
+**Waller Lansden Dortch & Davis** · Law firm  
+July 2012 to June 2020
+
+#### What I did
+
+- Redesigned the firm’s intranet to make it easier to use and reduce costs.
+- Built internal tools, including an email signature app and an interactive floor map.
+- Worked with attorneys to build digital applications.
+- Managed projects and collaborated remotely with the development team.
+
+**Tools:** VS Code, Adobe XD, Photoshop, Illustrator, WordPress, SharePoint, GitHub, Vue, Angular, React.
 ### Creative Director
-- Company: Comsynth (a creative agency)
-- Dates Employed: March 2007 - Present.
-  - Oversee and direct creative content.
-  - Developed and launched branding projects for numerous clients/media campaigns, including Liona Law, Kia, Sony Music, Particle Ceramics, Elizabeth Smart, and First Class Talent.
-  - All freelance necessities including bookkeeping and client relations. 
-  - Learning new technologies when the budget is not flexible enough for outsourcing/collaboration.
-- Toolset: Photoshop, Illustrator, WordPress and Squarespace.
+
+**Comsynth** · Creative agency  
+March 2007 to present
+
+#### What I do
+
+- Direct creative work from concept to launch.
+- Develop brands and campaigns for clients including Kia, Sony Music, and Particle Ceramics.
+- Manage client relationships and handle bookkeeping.
+- Learn new tools and techniques to keep projects within budget.
+
+**Tools:** Photoshop, Illustrator, WordPress, Squarespace.
 ### Professional Musician
-- Company: Delirious (a rock band)
-- Record Labels: Furious Records, Virgin Records, Sparrow Records, EMI.
-- Dates Employed: April 1997 - November 2009. 
-- Employment Duration: 12 yrs.
-  - Bass Player - studio and touring.
-  - Webmaster - created and maintained band website.
-  - Songwriter - part of the writing process.
-  - Producer -  part of the studio production team.
-  - Video creation for live shows and promotional material.
-- Toolset: Passport, Fender P Bass, Ampeg SVT, 8x10, Z-vex Wooly Mammoth, Reason, Logic and ProTools.
+
+**Delirious?** · Rock band  
+April 1997 to November 2009
+
+#### What I did
+
+- Played bass on records and on tour.
+- Co-wrote songs and contributed to studio production.
+- Built and maintained the band’s website.
+- Created videos for live shows and promotion.
+
+**Record labels:** Furious Records, Virgin Records, Sparrow Records, EMI.  
+**Tools:** Passport, Fender Precision Bass, Ampeg SVT with an 8×10 cabinet, ZVEX Woolly Mammoth, Reason, Logic, Pro Tools.
 ### Partner / Webmaster
-- Company: Furious Records (an independent record label)
-- Dates Employed: January 1996 - November 2009.
-- Employment Duration: 13 yrs.
-  - Founded, owned, and directed a small business.
-  - Created and maintained a collection of websites. 
-  - E-commerce, email distribution, social media.
-- Toolset: Dreamweaver, WordPress, and Final Cut.
+
+**Furious Records** · Independent record label  
+January 1996 to November 2009
+
+#### What I did
+
+- Co-founded and ran an independent record label.
+- Built and maintained the label’s websites.
+- Managed online sales, email campaigns, and social media.
+
+**Tools:** Dreamweaver, WordPress, Final Cut.
 ### Farm Hand / Beekeeper
-- Company: McGinniss Farm, Smallbone Farm.
-- Dates Employed: June 2010 - Present.
-  - General farm work. Oversee over 100 farmyard animals -  Weekend work for grounding and fun.
-- Toolset: Buckets, Wellington Boots, Smoke.
-## Personal Information
-- Nationality: British, American.
-- Permanent Residence: Franklin, TN, USA.
-- Online: [GitHub](https://github.com/jdthatcher/resume/) // [LinkedIn](https://www.linkedin.com/in/arkyard/)
-- Further Listening: [But Enough About Me - Pod Cast](https://podcasts.apple.com/us/podcast/ep-12-jon-thatcher/id1464781115?i=1000454409914)
-## Primary Languages
-HTML, CSS (SCSS), JS.
-## Tool set
-Shopify, Squarespace, Wix, WordPress, Sharepoint, Adobe Creative Suite, Photoshop, XD, Lightroom, Premiere, Illustrator, Github, VS code, VUE, Angular, React, (and google).
-## Portfolio
- [Portfolio](https://github.com/jdthatcher/resume/blob/master/PORTFOLIO.md) | [Wireframes](https://github.com/jdthatcher/resume/blob/master/WIREFRAMES.md) 
+
+**McGinniss Farm and Smallbone Farm**  
+June 2010 to present
+
+#### What I do
+
+- Look after more than 100 farm animals, tend bees, and help with general farm work.
+- Spend weekends there to stay grounded and have a bit of fun.
+
+**Tools:** Buckets, wellies, and a bee smoker.
+## A little about me
+
+- British and American, based in Franklin, Tennessee.
+- Find me on [GitHub](https://github.com/jdthatcher/resume/) and [LinkedIn](https://www.linkedin.com/in/arkyard/).
+- Further listening · [But Enough About Me, episode 12](https://podcasts.apple.com/us/podcast/ep-12-jon-thatcher/id1464781115?i=1000454409914)
+
+## Languages and tools
+
+- **Frontend:** HTML, CSS, SCSS, JavaScript, Vue, Angular, React
+- **Web platforms:** Shopify, Squarespace, Wix, WordPress, SharePoint
+- **Design and production:** Photoshop, Illustrator, Adobe XD, Lightroom, Premiere Pro
+- **Development tools:** GitHub, VS Code
+
+## Selected work
+
+[Portfolio](https://github.com/jdthatcher/resume/blob/master/PORTFOLIO.md) · [Wireframes](https://github.com/jdthatcher/resume/blob/master/WIREFRAMES.md)
+
 ## References
 - Joel Lawler - Senior Developer at Waller // 615 384 1181 
 - Bob Strachan - Founder of Metacake // 615 739 2014
