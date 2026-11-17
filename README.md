@@ -17,14 +17,18 @@
 - Manage projects and help build the business.
 - Toolset: Figma, WordPress, Wix studio, Squarespace, XD, Photoshop, Lightroom, Premiere, Illustrator, Slack, Zoom, Asana, Constant Contact, Loomly, Google, Chatgpt.
 ### Platform Specialist
-- Company: Metacake (an e-commerce agency)
-- Dates Employed: June 2021 - January 2023.
-- Employment Duration: 18 months.
-  - Design, build, and develop e-commerce websites, primarily on the Shopify platform.
-  - Managed projects using the agile/scrum system.
-  - Created design systems to automate and reduce repetitive design tasks.
-  - Created social media campaigns.
-- Toolset: Shopify, XD, Photoshop, Illustrator. Slack, Zoom, Basecamp.
+
+**Metacake** · E-commerce agency  
+June 2021 to January 2023
+
+#### What I did
+
+- Designed and built e-commerce websites, primarily on Shopify.
+- Managed projects using Agile and Scrum practices.
+- Built design systems to automate repetitive tasks and keep designs consistent.
+- Created social media campaigns.
+
+**Tools:** Shopify, Adobe XD, Photoshop, Illustrator, Slack, Zoom, Basecamp.
 ### Frontend Web Developer
 - Company: Waller Lansden Dortch and Davis (a law firm)
 - Dates Employed: July 2012 - June 2020
