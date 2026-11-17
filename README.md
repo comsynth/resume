@@ -7,16 +7,14 @@
 ## Professional Endeavors
 ### Partner / Director of Technology
 - Company: Fifo Agency (a creative agency)
-- Dates Employed: February 2023 - Present.
-- Employment Duration: 45
-  - Design, build, and develop digital experiences.
-  - Develop brands and campaigns.
-  - Brand applications - creates brand-specified content from brand guides. Including; business cards, printed materials, powerpoint presentations, pdf’s.
-  - Photography - creates and edits content for digital and print.
-  - Creates design systems to automate, uniform, and reduce repetitive design tasks.
-  - Creates and implements social media campaigns.
-  - Project Management.
-  - Business Creation.
+- Dates Employed: February 2023 - Present (3 years, 9 months)
+#### What I do
+- Design and build websites and digital experiences.
+- Develop brands and campaigns, and bring them to life across print and digital.
+- Shoot and edit photography for print and digital.
+- Build design systems that keep work consistent and cut down on repetitive tasks.
+- Plan and run social media campaigns.
+- Manage projects and help build the business.
 - Toolset: Figma, WordPress, Wix studio, Squarespace, XD, Photoshop, Lightroom, Premiere, Illustrator, Slack, Zoom, Asana, Constant Contact, Loomly, Google, Chatgpt.
 ### Platform Specialist
 - Company: Metacake (an e-commerce agency)
