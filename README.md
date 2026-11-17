@@ -1,4 +1,4 @@
-# Jonathan Thatcher // A Modern Creative
+# Jonathan Thatcher // Art Conductor
 #### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
 ## Profile
 > I start with people. I’ve made records and built brands. I find beauty in silence and delight in noise. I measure success in work I’m proud of and moments I’m there for.
@@ -6,16 +6,23 @@
 
 ## Professional Endeavors
 ### Partner / Director of Technology
-- Company: Fifo Agency (a creative agency)
-- Dates Employed: February 2023 - Present (3 years, 9 months)
+
+**FIFO Agency** · Creative agency  
+February 2023 to present
+
 #### What I do
-- Design and build websites and digital experiences.
-- Develop brands and campaigns, and bring them to life across print and digital.
-- Shoot and edit photography for print and digital.
-- Build design systems that keep work consistent and cut down on repetitive tasks.
+
+- Lead web projects from planning and design through launch and client training.
+- Develop brands and campaigns across print and digital.
+- Build design systems that keep work consistent and reduce repetitive tasks.
+- Improve website performance, accessibility, and search visibility.
 - Plan and run social media campaigns.
-- Manage projects and help build the business.
-- Toolset: Figma, WordPress, Wix studio, Squarespace, XD, Photoshop, Lightroom, Premiere, Illustrator, Slack, Zoom, Asana, Constant Contact, Loomly, Google, Chatgpt.
+- Manage projects, work directly with clients, and help grow the agency.
+- Fill in the gaps wherever the team needs a hand.
+
+**Tools:** Figma, WordPress, Wix Studio, Squarespace, Adobe XD, Photoshop, Lightroom, Premiere Pro, Illustrator, Slack, Zoom, Asana, Constant Contact, Loomly, Google, ChatGPT.
+
+### Platform Specialist
 ### Platform Specialist
 
 **Metacake** · E-commerce agency  
